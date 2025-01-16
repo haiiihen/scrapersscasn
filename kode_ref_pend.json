@@ -1,0 +1,38 @@
+{
+    "d-iv/s-1_teknik_informatika": {
+         "kode": "5193682",
+         "nama_pendidikan": "D-IV/S-1 TEKNIK INFORMATIKA"
+     },
+     "s-1_teknik_informatika": {
+         "kode": "5193453",
+         "nama_pendidikan": "S-1 TEKNIK INFORMATIKA"
+     },
+     "s-1_teknik_informatika_dan_komputer": {
+         "kode": "5192602",
+         "nama_pendidikan": "S-1 TEKNIK INFORMATIKA DAN KOMPUTER"
+     },
+     "s-1_teknik_informatika_dan_sistem_komputer": {
+         "kode": "5193454",
+         "nama_pendidikan": "S-1 TEKNIK INFORMATIKA DAN SISTEM KOMPUTER"
+     },
+     "s-1_teknik_informatika_komputer": {
+         "kode": "5100970",
+         "nama_pendidikan": "S-1 TEKNIK INFORMATIKA KOMPUTER"
+     },
+     "s-1_teknik_informatika_telekomunikasi": {
+         "kode": "5193476",
+         "nama_pendidikan": "S-1 TEKNIK INFORMATIKA TELEKOMUNIKASI"
+     },
+     "s-1_teknik_informatika/sistem_informasi": {
+         "kode": "5193393",
+         "nama_pendidikan": "S-1 TEKNIK INFORMATIKA/SISTEM INFORMASI"
+     },
+     "s-1_teknik_komputer_dan_informatika": {
+         "kode": "5009032",
+         "nama_pendidikan": "S-1 TEKNIK KOMPUTER DAN INFORMATIKA"
+     },
+     "s-1/d-iv_teknik_informatika": {
+         "kode": "5209115",
+         "nama_pendidikan": "S-1/D-IV TEKNIK INFORMATIKA"
+     }
+ }

@@ -1,0 +1,246 @@
+{
+   "d-iv/s-1_teknik_informatika": {
+        "kode": "5193682",
+        "nama_pendidikan": "D-IV/S-1 TEKNIK INFORMATIKA"
+    },
+    "s-1_ilmu_informatika": {
+        "kode": "5100259",
+        "nama_pendidikan": "S-1 ILMU INFORMATIKA"
+    },
+    "s-1_ilmu_kependidikan_teknik_informatika": {
+        "kode": "5100730",
+        "nama_pendidikan": "S-1 ILMU KEPENDIDIKAN TEKNIK INFORMATIKA"
+    },
+    "s-1_ilmu_komputer_(informatika)": {
+        "kode": "5193060",
+        "nama_pendidikan": "S-1 ILMU KOMPUTER (INFORMATIKA)"
+    },
+    "s-1_ilmu_komputer_atau_informatika": {
+        "kode": "9940611",
+        "nama_pendidikan": "S-1 ILMU KOMPUTER ATAU INFORMATIKA"
+    },
+    "s-1_ilmu_komputer_dan_informatika": {
+        "kode": "5102671",
+        "nama_pendidikan": "S-1 ILMU KOMPUTER DAN INFORMATIKA"
+    },
+    "s-1_ilmu_teknik_informatika": {
+        "kode": "5100261",
+        "nama_pendidikan": "S-1 ILMU TEKNIK INFORMATIKA"
+    },
+    "s-1_informatika": {
+        "kode": "5191141",
+        "nama_pendidikan": "S-1 INFORMATIKA"
+    },
+    "s-1_informatika_dan_jaringan_komputer": {
+        "kode": "5192628",
+        "nama_pendidikan": "S-1 INFORMATIKA DAN JARINGAN KOMPUTER"
+    },
+    "s-1_informatika_dan_komputer": {
+        "kode": "5100132",
+        "nama_pendidikan": "S-1 INFORMATIKA DAN KOMPUTER"
+    },
+    "s-1_informatika_dan_komunikasi": {
+        "kode": "5102563",
+        "nama_pendidikan": "S-1 INFORMATIKA DAN KOMUNIKASI"
+    },
+    "s-1_kependidikan_teknik_informatika": {
+        "kode": "5100421",
+        "nama_pendidikan": "S-1 KEPENDIDIKAN TEKNIK INFORMATIKA"
+    },
+    "s-1_komputer_dan_sistem_informatika": {
+        "kode": "5191068",
+        "nama_pendidikan": "S-1 KOMPUTER DAN SISTEM INFORMATIKA"
+    },
+    "s-1_komputer_informatika": {
+        "kode": "5150020",
+        "nama_pendidikan": "S-1 KOMPUTER INFORMATIKA"
+    },
+    "s-1_komputer_sistem_informatika": {
+        "kode": "5150022",
+        "nama_pendidikan": "S-1 KOMPUTER SISTEM INFORMATIKA"
+    },
+    "s-1_komputer_teknik_informatika": {
+        "kode": "5150041",
+        "nama_pendidikan": "S-1 KOMPUTER TEKNIK INFORMATIKA"
+    },
+    "s-1_mipa_komputer_dan_sistem_informatika": {
+        "kode": "5107271",
+        "nama_pendidikan": "S-1 MIPA KOMPUTER DAN SISTEM INFORMATIKA"
+    },
+    "s-1_pendidikan_informatika": {
+        "kode": "5190111",
+        "nama_pendidikan": "S-1 PENDIDIKAN INFORMATIKA"
+    },
+    "s-1_pendidikan_komputer_teknik_informatika": {
+        "kode": "7609247",
+        "nama_pendidikan": "S-1 PENDIDIKAN KOMPUTER TEKNIK INFORMATIKA"
+    },
+    "s-1_pendidikan_sistem_informatika": {
+        "kode": "5100212",
+        "nama_pendidikan": "S-1 PENDIDIKAN SISTEM INFORMATIKA"
+    },
+    "s-1_pendidikan_teknik_informatika": {
+        "kode": "5110219",
+        "nama_pendidikan": "S-1 PENDIDIKAN TEKNIK INFORMATIKA"
+    },
+    "s-1_pendidikan_teknik_informatika_dan_komputer": {
+        "kode": "5191117",
+        "nama_pendidikan": "S-1 PENDIDIKAN TEKNIK INFORMATIKA DAN KOMPUTER"
+    },
+    "s-1_pendidikan_teknik_informatika_komputer": {
+        "kode": "5200032",
+        "nama_pendidikan": "S-1 PENDIDIKAN TEKNIK INFORMATIKA KOMPUTER"
+    },
+    "s-1_pendidikan_teknologi_informatika": {
+        "kode": "7609173",
+        "nama_pendidikan": "S-1 PENDIDIKAN TEKNOLOGI INFORMATIKA"
+    },
+    "s-1_sistem_teknik_informatika": {
+        "kode": "5193366",
+        "nama_pendidikan": "S-1 SISTEM TEKNIK INFORMATIKA"
+    },
+    "s-1_teknik_dan_ilmu_komputer/informatika": {
+        "kode": "5102524",
+        "nama_pendidikan": "S-1 TEKNIK DAN ILMU KOMPUTER/INFORMATIKA"
+    },
+    "s-1_teknik_informatika": {
+        "kode": "5193453",
+        "nama_pendidikan": "S-1 TEKNIK INFORMATIKA"
+    },
+    "s-1_teknik_informatika_dan_komputer": {
+        "kode": "5192602",
+        "nama_pendidikan": "S-1 TEKNIK INFORMATIKA DAN KOMPUTER"
+    },
+    "s-1_teknik_informatika_dan_komunikasi": {
+        "kode": "5109792",
+        "nama_pendidikan": "S-1 TEKNIK INFORMATIKA DAN KOMUNIKASI"
+    },
+    "s-1_teknik_informatika_dan_sistem_komputer": {
+        "kode": "5193454",
+        "nama_pendidikan": "S-1 TEKNIK INFORMATIKA DAN SISTEM KOMPUTER"
+    },
+    "s-1_teknik_informatika_komputer": {
+        "kode": "5100970",
+        "nama_pendidikan": "S-1 TEKNIK INFORMATIKA KOMPUTER"
+    },
+    "s-1_teknik_informatika_telekomunikasi": {
+        "kode": "5193476",
+        "nama_pendidikan": "S-1 TEKNIK INFORMATIKA TELEKOMUNIKASI"
+    },
+    "s-1_teknik_informatika/sistem_informasi": {
+        "kode": "5193393",
+        "nama_pendidikan": "S-1 TEKNIK INFORMATIKA/SISTEM INFORMASI"
+    },
+    "s-1_teknik_komputer_dan_informatika": {
+        "kode": "5009032",
+        "nama_pendidikan": "S-1 TEKNIK KOMPUTER DAN INFORMATIKA"
+    },
+    "s-1_teknologi_informatika": {
+        "kode": "5100088",
+        "nama_pendidikan": "S-1 TEKNOLOGI INFORMATIKA"
+    },
+    "s-1/d-iv_teknik_informatika": {
+        "kode": "5209115",
+        "nama_pendidikan": "S-1/D-IV TEKNIK INFORMATIKA"
+    },
+    "d-iv/s-1_ilmu_komputer": {
+        "kode": "5193679",
+        "nama_pendidikan": "D-IV/S-1 ILMU KOMPUTER"
+    },
+    "s-1_ilmu_komputer": {
+        "kode": "5150001",
+        "nama_pendidikan": "S-1 ILMU KOMPUTER"
+    },
+    "s-1_ilmu_komputer_(design_interface)": {
+        "kode": "5193059",
+        "nama_pendidikan": "S-1 ILMU KOMPUTER (DESIGN INTERFACE)"
+    },
+    "s-1_ilmu_komputer_sistem_informasi": {
+        "kode": "5193061",
+        "nama_pendidikan": "S-1 ILMU KOMPUTER SISTEM INFORMASI"
+    },
+    "s-1_informasi_dan_komputer": {
+        "kode": "5101474",
+        "nama_pendidikan": "S-1 INFORMASI DAN KOMPUTER"
+    },
+    "s-1_jaringan_komputer": {
+        "kode": "5191154",
+        "nama_pendidikan": "S-1 JARINGAN KOMPUTER"
+    },
+    "s-1_komputer": {
+        "kode": "5150000",
+        "nama_pendidikan": "S-1 KOMPUTER"
+    },
+    "s-1_komputer_aplikasi": {
+        "kode": "5150010",
+        "nama_pendidikan": "S-1 KOMPUTER APLIKASI"
+    },
+    "s-1_komputer_jurusan_sistem_informasi": {
+        "kode": "5100097",
+        "nama_pendidikan": "S-1 KOMPUTER JURUSAN SISTEM INFORMASI"
+    },
+    "s-1_komputer_programmer": {
+        "kode": "5150030",
+        "nama_pendidikan": "S-1 KOMPUTER PROGRAMMER"
+    },
+    "s-1_komputer_sistem_informasi": {
+        "kode": "5100770",
+        "nama_pendidikan": "S-1 KOMPUTER SISTEM INFORMASI"
+    },
+    "s-1_pendidikan_ilmu_komputer": {
+        "kode": "5191438",
+        "nama_pendidikan": "S-1 PENDIDIKAN ILMU KOMPUTER"
+    },
+    "s-1_pendidikan_sistem_informasi_komputer": {
+        "kode": "5111051",
+        "nama_pendidikan": "S-1 PENDIDIKAN SISTEM INFORMASI KOMPUTER"
+    },
+    "s-1_rekayasa_sistem_komputer": {
+        "kode": "5102648",
+        "nama_pendidikan": "S-1 REKAYASA SISTEM KOMPUTER"
+    },
+    "s-1_sistem_informasi_komputer": {
+        "kode": "5191413",
+        "nama_pendidikan": "S-1 SISTEM INFORMASI KOMPUTER"
+    },
+    "s-1_sistem_komputer": {
+        "kode": "5150072",
+        "nama_pendidikan": "S-1 SISTEM KOMPUTER"
+    },
+    "s-1_teknik_atau_rekayasa_komputer": {
+        "kode": "9940618",
+        "nama_pendidikan": "S-1 TEKNIK ATAU REKAYASA KOMPUTER"
+    },
+    "s-1_teknik_komputer": {
+        "kode": "5101346",
+        "nama_pendidikan": "S-1 TEKNIK KOMPUTER"
+    },
+    "s-1_teknik_komputer_dan_jaringan": {
+        "kode": "5191287",
+        "nama_pendidikan": "S-1 TEKNIK KOMPUTER DAN JARINGAN"
+    },
+    "s-1_teknik_komputer_jaringan": {
+        "kode": "5100152",
+        "nama_pendidikan": "S-1 TEKNIK KOMPUTER JARINGAN"
+    },
+    "s-1_teknik_sistem_komputer": {
+        "kode": "5192692",
+        "nama_pendidikan": "S-1 TEKNIK SISTEM KOMPUTER"
+    },
+    "s-1_teknologi_rekayasa_komputer": {
+        "kode": "5210091",
+        "nama_pendidikan": "S-1 TEKNOLOGI REKAYASA KOMPUTER"
+    },
+    "s-1_tik_(komputer)": {
+        "kode": "5193288",
+        "nama_pendidikan": "S-1 TIK (KOMPUTER)"
+    },
+    "s-1/d-iv_ilmu_komputer": {
+        "kode": "5100273",
+        "nama_pendidikan": "S-1/D-IV ILMU KOMPUTER"
+    },
+    "s-1/d-iv_komputer": {
+        "kode": "5100276",
+        "nama_pendidikan": "S-1/D-IV KOMPUTER"
+    }
+}

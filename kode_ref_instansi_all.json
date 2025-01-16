@@ -1,0 +1,2526 @@
+[
+    {
+        "id": "A5EB03E23C07F6A0E040640A040252AD",
+        "nama": "Arsip Nasional Republik Indonesia"
+    },
+    {
+        "id": "A5EB03E23B04F6A0E040640A040252AD",
+        "nama": "Badan Informasi Geospasial"
+    },
+    {
+        "id": "063E7DF648C0B4B9E060640AF10839CE",
+        "nama": "Badan Karantina Indonesia"
+    },
+    {
+        "id": "A5EB03E23B7AF6A0E040640A040252AD",
+        "nama": "Badan Keamanan Laut RI"
+    },
+    {
+        "id": "A5EB03E23B00F6A0E040640A040252AD",
+        "nama": "Badan Kepegawaian Negara"
+    },
+    {
+        "id": "A5EB03E23D63F6A0E040640A040252AD",
+        "nama": "Badan Kependudukan dan Keluarga Berencana Nasional"
+    },
+    {
+        "id": "A5EB03E23B0AF6A0E040640A040252AD",
+        "nama": "Badan Meteorologi, Klimatologi dan Geofisika"
+    },
+    {
+        "id": "A5EB03E23C11F6A0E040640A040252AD",
+        "nama": "Badan Narkotika Nasional"
+    },
+    {
+        "id": "A5EB03E23D55F6A0E040640A040252AD",
+        "nama": "Badan Nasional Penanggulangan Bencana"
+    },
+    {
+        "id": "A5EB03E23C5FF6A0E040640A040252AD",
+        "nama": "Badan Nasional Penanggulangan Terorisme"
+    },
+    {
+        "id": "A5EB03E23D34F6A0E040640A040252AD",
+        "nama": "Badan Nasional Pencarian dan Pertolongan"
+    },
+    {
+        "id": "A5EB03E23C5EF6A0E040640A040252AD",
+        "nama": "Badan Nasional Pengelola Perbatasan"
+    },
+    {
+        "id": "CE1DEAA62F83ECDFE050640AF1083757",
+        "nama": "Badan Pangan Nasional"
+    },
+    {
+        "id": "A5EB03E23D48F6A0E040640A040252AD",
+        "nama": "Badan Pelindungan Pekerja Migran Indonesia"
+    },
+    {
+        "id": "748FC9961C1A485EE050640A2A030F86",
+        "nama": "Badan Pembinaan Ideologi Pancasila"
+    },
+    {
+        "id": "A5EB03E23AFFF6A0E040640A040252AD",
+        "nama": "Badan Pemeriksa Keuangan"
+    },
+    {
+        "id": "A5EB03E23B08F6A0E040640A040252AD",
+        "nama": "Badan Pengawas Obat dan Makanan "
+    },
+    {
+        "id": "8ae4828940ecc41d0140f19098654ee4",
+        "nama": "Badan Pengawas Pemilihan Umum"
+    },
+    {
+        "id": "A5EB03E23C0BF6A0E040640A040252AD",
+        "nama": "Badan Pengawas Tenaga Nuklir "
+    },
+    {
+        "id": "A5EB03E23C09F6A0E040640A040252AD",
+        "nama": "Badan Pengawasan Keuangan dan Pembangunan"
+    },
+    {
+        "id": "A5EB03E23D45F6A0E040640A040252AD",
+        "nama": "Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam"
+    },
+    {
+        "id": "A5EB03E23C06F6A0E040640A040252AD",
+        "nama": "Badan Pusat Statistik "
+    },
+    {
+        "id": "C5CD908671C69920E050640AF108625B",
+        "nama": "Badan Riset dan Inovasi Nasional"
+    },
+    {
+        "id": "A5EB03E23C03F6A0E040640A040252AD",
+        "nama": "Badan Siber dan Sandi Negara"
+    },
+    {
+        "id": "A5EB03E23B07F6A0E040640A040252AD",
+        "nama": "Badan Standardisasi Nasional"
+    },
+    {
+        "id": "A5EB03E23BFEF6A0E040640A040252AD",
+        "nama": "Kejaksaan Agung"
+    },
+    {
+        "id": "A5EB03E23BFBF6A0E040640A040252AD",
+        "nama": "Kementerian Agama"
+    },
+    {
+        "id": "A5EB03E23B06F6A0E040640A040252AD",
+        "nama": "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional"
+    },
+    {
+        "id": "A5EB03E23BEFF6A0E040640A040252AD",
+        "nama": "Kementerian Badan Usaha Milik Negara"
+    },
+    {
+        "id": "A5EB03E23BF3F6A0E040640A040252AD",
+        "nama": "Kementerian Dalam Negeri"
+    },
+    {
+        "id": "A5EB03E23B95F6A0E040640A040252AD",
+        "nama": "Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi"
+    },
+    {
+        "id": "A5EB03E23BF9F6A0E040640A040252AD",
+        "nama": "Kementerian Energi dan Sumber Daya Mineral"
+    },
+    {
+        "id": "A5EB03E23BF6F6A0E040640A040252AD",
+        "nama": "Kementerian Hukum dan Hak Asasi Manusia"
+    },
+    {
+        "id": "A5EB03E23C08F6A0E040640A040252AD",
+        "nama": "Kementerian Investasi/Badan Koordinasi Penanaman Modal"
+    },
+    {
+        "id": "A5EB03E23BFDF6A0E040640A040252AD",
+        "nama": "Kementerian Kelautan dan Perikanan"
+    },
+    {
+        "id": "A5EB03E23AF9F6A0E040640A040252AD",
+        "nama": "Kementerian Kesehatan"
+    },
+    {
+        "id": "A5EB03E23AFAF6A0E040640A040252AD",
+        "nama": "Kementerian Ketenagakerjaan"
+    },
+    {
+        "id": "A5EB03E23BF7F6A0E040640A040252AD",
+        "nama": "Kementerian Keuangan"
+    },
+    {
+        "id": "A5EB03E23BE6F6A0E040640A040252AD",
+        "nama": "Kementerian Komunikasi dan Informatika"
+    },
+    {
+        "id": "0C37093AED94370CE050640A1502102F",
+        "nama": "Kementerian Koordinator Bidang Kemaritiman dan Investasi"
+    },
+    {
+        "id": "A5EB03E23BEAF6A0E040640A040252AD",
+        "nama": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
+    },
+    {
+        "id": "A5EB03E23BE9F6A0E040640A040252AD",
+        "nama": "Kementerian Koordinator Bidang Perekonomian"
+    },
+    {
+        "id": "A5EB03E23BE8F6A0E040640A040252AD",
+        "nama": "Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan"
+    },
+    {
+        "id": "A5EB03E23BECF6A0E040640A040252AD",
+        "nama": "Kementerian Koperasi dan Usaha Kecil dan Menengah"
+    },
+    {
+        "id": "A5EB03E23AFBF6A0E040640A040252AD",
+        "nama": "Kementerian Lingkungan Hidup dan Kehutanan"
+    },
+    {
+        "id": "A5EB03E23BF4F6A0E040640A040252AD",
+        "nama": "Kementerian Luar Negeri"
+    },
+    {
+        "id": "A5EB03E23BE4F6A0E040640A040252AD",
+        "nama": "Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif"
+    },
+    {
+        "id": "A5EB03E23D46F6A0E040640A040252AD",
+        "nama": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+    },
+    {
+        "id": "A5EB03E23BF0F6A0E040640A040252AD",
+        "nama": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
+    },
+    {
+        "id": "A5EB03E23D5BF6A0E040640A040252AD",
+        "nama": "Kementerian Pemuda dan Olahraga"
+    },
+    {
+        "id": "A5EB03E23BF1F6A0E040640A040252AD",
+        "nama": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi"
+    },
+    {
+        "id": "A5EB03E23BFAF6A0E040640A040252AD",
+        "nama": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi"
+    },
+    {
+        "id": "A5EB03E23BE7F6A0E040640A040252AD",
+        "nama": "Kementerian Perdagangan"
+    },
+    {
+        "id": "A5EB03E23B03F6A0E040640A040252AD",
+        "nama": "Kementerian Perencanaan Pembangunan Nasional/Bappenas"
+    },
+    {
+        "id": "A5EB03E23D62F6A0E040640A040252AD",
+        "nama": "Kementerian Perhubungan"
+    },
+    {
+        "id": "A5EB03E23B96F6A0E040640A040252AD",
+        "nama": "Kementerian Perindustrian"
+    },
+    {
+        "id": "A5EB03E23BF5F6A0E040640A040252AD",
+        "nama": "Kementerian Pertahanan"
+    },
+    {
+        "id": "A5EB03E23BF8F6A0E040640A040252AD",
+        "nama": "Kementerian Pertanian"
+    },
+    {
+        "id": "A5EB03E23AFCF6A0E040640A040252AD",
+        "nama": "Kementerian Sekretariat Negara"
+    },
+    {
+        "id": "A5EB03E23BFCF6A0E040640A040252AD",
+        "nama": "Kementerian Sosial"
+    },
+    {
+        "id": "A5EB03E23D3DF6A0E040640A040252AD",
+        "nama": "Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi RI"
+    },
+    {
+        "id": "A5EB03E23B09F6A0E040640A040252AD",
+        "nama": "Kepolisian Negara"
+    },
+    {
+        "id": "8ae48288503bd9ee0150606afe0c766e",
+        "nama": "Komisi Aparatur Sipil Negara"
+    },
+    {
+        "id": "A5EB03E23D43F6A0E040640A040252AD",
+        "nama": "Komisi Pemberantasan Korupsi"
+    },
+    {
+        "id": "A5EB03E23C04F6A0E040640A040252AD",
+        "nama": "Lembaga Administrasi Negara "
+    },
+    {
+        "id": "A5EB03E23D4BF6A0E040640A040252AD",
+        "nama": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah"
+    },
+    {
+        "id": "A5EB03E23C0CF6A0E040640A040252AD",
+        "nama": "Lembaga Ketahanan Nasional RI"
+    },
+    {
+        "id": "A5EB03E23D4DF6A0E040640A040252AD",
+        "nama": "Lembaga Penyiaran Publik Radio Republik Indonesia"
+    },
+    {
+        "id": "A5EB03E23D67F6A0E040640A040252AD",
+        "nama": "Lembaga Penyiaran Publik Televisi Republik Indonesia"
+    },
+    {
+        "id": "6291CFA065278E99E050640A290279EA",
+        "nama": "Lembaga Perlindungan Saksi dan Korban"
+    },
+    {
+        "id": "A5EB03E23AFEF6A0E040640A040252AD",
+        "nama": "Mahkamah Agung RI"
+    },
+    {
+        "id": "A5EB03E23CFDF6A0E040640A040252AD",
+        "nama": "Ombudsman Republik Indonesia"
+    },
+    {
+        "id": "F5A9ECA412A82904E050640AF2081424",
+        "nama": "Otorita Ibu Kota Nusantara"
+    },
+    {
+        "id": "A5EB03E23B0CF6A0E040640A040252AD",
+        "nama": "Pemerintah Aceh"
+    },
+    {
+        "id": "A5EB03E23BA0F6A0E040640A040252AD",
+        "nama": "Pemerintah Daerah Daerah Istimewa Yogyakarta"
+    },
+    {
+        "id": "A5EB03E23C15F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Barat"
+    },
+    {
+        "id": "A5EB03E23B11F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Barat Daya"
+    },
+    {
+        "id": "A5EB03E23C12F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Besar"
+    },
+    {
+        "id": "A5EB03E23B13F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Jaya"
+    },
+    {
+        "id": "A5EB03E23B0EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Selatan"
+    },
+    {
+        "id": "A5EB03E23BDEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Singkil"
+    },
+    {
+        "id": "A5EB03E23B12F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Tamiang"
+    },
+    {
+        "id": "A5EB03E23B0FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Tengah"
+    },
+    {
+        "id": "A5EB03E23C16F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Tenggara"
+    },
+    {
+        "id": "A5EB03E23C14F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Timur"
+    },
+    {
+        "id": "A5EB03E23B0DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Aceh Utara"
+    },
+    {
+        "id": "A5EB03E23CADF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Agam"
+    },
+    {
+        "id": "A5EB03E23B52F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Alor"
+    },
+    {
+        "id": "A5EB03E23C9DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Asahan"
+    },
+    {
+        "id": "A5EB03E23B50F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Asmat"
+    },
+    {
+        "id": "A5EB03E23C8FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Badung"
+    },
+    {
+        "id": "A5EB03E23CF4F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Balangan"
+    },
+    {
+        "id": "A5EB03E23C43F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bandung"
+    },
+    {
+        "id": "A5EB03E23B7BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bandung Barat"
+    },
+    {
+        "id": "A5EB03E23C78F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Banggai"
+    },
+    {
+        "id": "A5EB03E23BB7F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Banggai Kepulauan"
+    },
+    {
+        "id": "ff8080813ff0535b013ff0d48c5e2efe",
+        "nama": "Pemerintah Kab. Banggai Laut"
+    },
+    {
+        "id": "A5EB03E23B56F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bangka"
+    },
+    {
+        "id": "A5EB03E23B35F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bangka Barat"
+    },
+    {
+        "id": "A5EB03E23B36F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bangka Selatan"
+    },
+    {
+        "id": "A5EB03E23CC0F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bangka Tengah"
+    },
+    {
+        "id": "A5EB03E23CD3F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bangkalan"
+    },
+    {
+        "id": "A5EB03E23C8EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bangli"
+    },
+    {
+        "id": "A5EB03E23CEFF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Banjar"
+    },
+    {
+        "id": "A5EB03E23C5AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Banjarnegara"
+    },
+    {
+        "id": "A5EB03E23BBDF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bantaeng"
+    },
+    {
+        "id": "A5EB03E23C4FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bantul"
+    },
+    {
+        "id": "A5EB03E23B31F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Banyuasin"
+    },
+    {
+        "id": "A5EB03E23BAAF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Banyumas"
+    },
+    {
+        "id": "A5EB03E23B39F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Banyuwangi"
+    },
+    {
+        "id": "A5EB03E23CF2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Barito Kuala"
+    },
+    {
+        "id": "A5EB03E23B62F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Barito Selatan"
+    },
+    {
+        "id": "A5EB03E23B67F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Barito Timur"
+    },
+    {
+        "id": "A5EB03E23CE9F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Barito Utara"
+    },
+    {
+        "id": "A5EB03E23BBFF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Barru"
+    },
+    {
+        "id": "A5EB03E23C54F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Batang"
+    },
+    {
+        "id": "A5EB03E23B29F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Batang Hari"
+    },
+    {
+        "id": "A5EB03E23BE3F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Batubara"
+    },
+    {
+        "id": "A5EB03E23C41F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bekasi"
+    },
+    {
+        "id": "A5EB03E23B34F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Belitung"
+    },
+    {
+        "id": "A5EB03E23CC1F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Belitung Timur"
+    },
+    {
+        "id": "A5EB03E23CFFF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Belu"
+    },
+    {
+        "id": "A5EB03E23D2FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bener Meriah"
+    },
+    {
+        "id": "A5EB03E23CA7F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bengkalis"
+    },
+    {
+        "id": "A5EB03E23CE6F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bengkayang"
+    },
+    {
+        "id": "A5EB03E23C2DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bengkulu Selatan"
+    },
+    {
+        "id": "A5EB03E23B7FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bengkulu Tengah"
+    },
+    {
+        "id": "A5EB03E23C2CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bengkulu Utara"
+    },
+    {
+        "id": "A5EB03E23C65F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Berau"
+    },
+    {
+        "id": "A5EB03E23BD8F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Biak Numfor"
+    },
+    {
+        "id": "A5EB03E23C92F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bima"
+    },
+    {
+        "id": "A5EB03E23D51F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bintan"
+    },
+    {
+        "id": "A5EB03E23C17F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bireuen"
+    },
+    {
+        "id": "A5EB03E23B3EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Blitar"
+    },
+    {
+        "id": "A5EB03E23C58F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Blora"
+    },
+    {
+        "id": "A5EB03E23BB2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Boalemo"
+    },
+    {
+        "id": "A5EB03E23C3FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bogor"
+    },
+    {
+        "id": "A5EB03E23B41F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bojonegoro"
+    },
+    {
+        "id": "A5EB03E23BAEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bolaang Mongondow"
+    },
+    {
+        "id": "A5EB03E23B86F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bolaang Mongondow Selatan"
+    },
+    {
+        "id": "A5EB03E23B87F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bolaang Mongondow Timur"
+    },
+    {
+        "id": "A5EB03E23B83F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bolaang Mongondow Utara"
+    },
+    {
+        "id": "A5EB03E23D37F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bombana"
+    },
+    {
+        "id": "A5EB03E23B38F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bondowoso"
+    },
+    {
+        "id": "A5EB03E23BBAF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bone"
+    },
+    {
+        "id": "A5EB03E23BB3F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bone Bolango"
+    },
+    {
+        "id": "A5EB03E23BDCF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Boven Digoel"
+    },
+    {
+        "id": "A5EB03E23CC2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Boyolali"
+    },
+    {
+        "id": "A5EB03E23C55F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Brebes"
+    },
+    {
+        "id": "A5EB03E23BC8F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Buleleng"
+    },
+    {
+        "id": "A5EB03E23B47F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bulukumba"
+    },
+    {
+        "id": "A5EB03E23C64F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bulungan"
+    },
+    {
+        "id": "A5EB03E23B2AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Bungo"
+    },
+    {
+        "id": "A5EB03E23BB6F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Buol"
+    },
+    {
+        "id": "A5EB03E23D0EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Buru"
+    },
+    {
+        "id": "A5EB03E23B8CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Buru Selatan"
+    },
+    {
+        "id": "A5EB03E23C88F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Buton"
+    },
+    {
+        "id": "0C8286E5D5268A36E050640A150223A8",
+        "nama": "Pemerintah Kab. Buton Selatan"
+    },
+    {
+        "id": "0E4FE60BDC1D9C73E050640A0202492C",
+        "nama": "Pemerintah Kab. Buton Tengah"
+    },
+    {
+        "id": "A5EB03E23D32F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Buton Utara"
+    },
+    {
+        "id": "A5EB03E23B45F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ciamis"
+    },
+    {
+        "id": "A5EB03E23B75F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Cianjur"
+    },
+    {
+        "id": "A5EB03E23C59F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Cilacap"
+    },
+    {
+        "id": "A5EB03E23C45F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Cirebon"
+    },
+    {
+        "id": "A5EB03E23B49F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Dairi"
+    },
+    {
+        "id": "A5EB03E23C1FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Deiyai"
+    },
+    {
+        "id": "A5EB03E23C95F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Deli Serdang"
+    },
+    {
+        "id": "A5EB03E23BA4F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Demak"
+    },
+    {
+        "id": "A5EB03E23D30F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Dharmasraya"
+    },
+    {
+        "id": "A5EB03E23B94F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Dogiyai"
+    },
+    {
+        "id": "A5EB03E23C93F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Dompu"
+    },
+    {
+        "id": "A5EB03E23C77F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Donggala"
+    },
+    {
+        "id": "A5EB03E23BEEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Empat Lawang"
+    },
+    {
+        "id": "A5EB03E23D04F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ende"
+    },
+    {
+        "id": "A5EB03E23BC1F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Enrekang"
+    },
+    {
+        "id": "A5EB03E23D59F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Fak-Fak"
+    },
+    {
+        "id": "A5EB03E23D03F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Flores Timur"
+    },
+    {
+        "id": "A5EB03E23C44F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Garut"
+    },
+    {
+        "id": "A5EB03E23C18F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Gayo Lues"
+    },
+    {
+        "id": "A5EB03E23C8DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Gianyar"
+    },
+    {
+        "id": "A5EB03E23C73F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Gorontalo"
+    },
+    {
+        "id": "A5EB03E23B8BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Gorontalo Utara"
+    },
+    {
+        "id": "A5EB03E23C7CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Gowa"
+    },
+    {
+        "id": "A5EB03E23CCDF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Gresik"
+    },
+    {
+        "id": "A5EB03E23C53F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Grobogan"
+    },
+    {
+        "id": "A5EB03E23B42F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Gunung Kidul"
+    },
+    {
+        "id": "A5EB03E23B64F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Gunung Mas"
+    },
+    {
+        "id": "A5EB03E23BD3F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Halmahera Barat"
+    },
+    {
+        "id": "A5EB03E23D11F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Halmahera Selatan"
+    },
+    {
+        "id": "A5EB03E23D10F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Halmahera Tengah"
+    },
+    {
+        "id": "A5EB03E23D12F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Halmahera Timur"
+    },
+    {
+        "id": "A5EB03E23BD5F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Halmahera Utara"
+    },
+    {
+        "id": "A5EB03E23CF1F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Hulu Sungai Selatan"
+    },
+    {
+        "id": "A5EB03E23B6AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Hulu Sungai Tengah"
+    },
+    {
+        "id": "A5EB03E23B6CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Hulu Sungai Utara"
+    },
+    {
+        "id": "A5EB03E23CA1F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Humbang Hasundutan"
+    },
+    {
+        "id": "A5EB03E23CA8F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Indragiri Hilir"
+    },
+    {
+        "id": "A5EB03E23B1AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Indragiri Hulu"
+    },
+    {
+        "id": "A5EB03E23C46F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Indramayu"
+    },
+    {
+        "id": "A5EB03E23C1EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Intan Jaya"
+    },
+    {
+        "id": "A5EB03E23D14F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Jayapura"
+    },
+    {
+        "id": "A5EB03E23D16F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Jayawijaya"
+    },
+    {
+        "id": "A5EB03E23CD5F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Jember"
+    },
+    {
+        "id": "A5EB03E23C8CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Jembrana"
+    },
+    {
+        "id": "A5EB03E23C80F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Jeneponto"
+    },
+    {
+        "id": "A5EB03E23C57F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Jepara"
+    },
+    {
+        "id": "A5EB03E23CD0F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Jombang"
+    },
+    {
+        "id": "A5EB03E23D2AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kaimana"
+    },
+    {
+        "id": "A5EB03E23B19F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kampar"
+    },
+    {
+        "id": "A5EB03E23CE8F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kapuas"
+    },
+    {
+        "id": "A5EB03E23CE5F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kapuas Hulu"
+    },
+    {
+        "id": "A5EB03E23CC5F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Karanganyar"
+    },
+    {
+        "id": "A5EB03E23BCAF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Karangasem"
+    },
+    {
+        "id": "A5EB03E23B76F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Karawang"
+    },
+    {
+        "id": "A5EB03E23CFAF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Karimun"
+    },
+    {
+        "id": "A5EB03E23C96F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Karo"
+    },
+    {
+        "id": "A5EB03E23B66F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Katingan"
+    },
+    {
+        "id": "A5EB03E23C2FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kaur"
+    },
+    {
+        "id": "A5EB03E23BDDF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kayong Utara"
+    },
+    {
+        "id": "A5EB03E23C5CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kebumen"
+    },
+    {
+        "id": "A5EB03E23B3CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kediri"
+    },
+    {
+        "id": "A5EB03E23D4FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Keerom"
+    },
+    {
+        "id": "A5EB03E23C52F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kendal"
+    },
+    {
+        "id": "A5EB03E23CB0F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kep. Mentawai"
+    },
+    {
+        "id": "A5EB03E23D2DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepahiang"
+    },
+    {
+        "id": "A5EB03E23B80F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepulauan Anambas"
+    },
+    {
+        "id": "A5EB03E23D3AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepulauan Aru"
+    },
+    {
+        "id": "A5EB03E23D66F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepulauan Meranti"
+    },
+    {
+        "id": "A5EB03E23C70F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepulauan Sangihe"
+    },
+    {
+        "id": "A5EB03E23BBEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepulauan Selayar"
+    },
+    {
+        "id": "A5EB03E23B84F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepulauan Siau Tagulandang Biaro"
+    },
+    {
+        "id": "A5EB03E23BD4F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepulauan Sula"
+    },
+    {
+        "id": "A5EB03E23B53F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepulauan Talaud"
+    },
+    {
+        "id": "A5EB03E23BD2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepulauan Tanimbar"
+    },
+    {
+        "id": "A5EB03E23D15F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kepulauan Yapen "
+    },
+    {
+        "id": "A5EB03E23B2BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kerinci"
+    },
+    {
+        "id": "A5EB03E23B5EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ketapang"
+    },
+    {
+        "id": "A5EB03E23C5DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Klaten"
+    },
+    {
+        "id": "A5EB03E23BC9F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Klungkung"
+    },
+    {
+        "id": "A5EB03E23C89F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kolaka"
+    },
+    {
+        "id": "ff808081407013be0140718ae4665cb5",
+        "nama": "Pemerintah Kab. Kolaka Timur"
+    },
+    {
+        "id": "A5EB03E23D36F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kolaka Utara"
+    },
+    {
+        "id": "A5EB03E23C87F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Konawe"
+    },
+    {
+        "id": "8ae4828944dd62730144dd79597f077b",
+        "nama": "Pemerintah Kab. Konawe Kepulauan"
+    },
+    {
+        "id": "A5EB03E23BC6F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Konawe Selatan"
+    },
+    {
+        "id": "A5EB03E23D33F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Konawe Utara"
+    },
+    {
+        "id": "A5EB03E23CF3F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kotabaru"
+    },
+    {
+        "id": "A5EB03E23B63F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kotawaringin Barat"
+    },
+    {
+        "id": "A5EB03E23CEAF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kotawaringin Timur"
+    },
+    {
+        "id": "A5EB03E23B1FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kuantan Singingi"
+    },
+    {
+        "id": "A5EB03E23D4AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kubu Raya"
+    },
+    {
+        "id": "A5EB03E23C56F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kudus"
+    },
+    {
+        "id": "A5EB03E23BA2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kulon Progo"
+    },
+    {
+        "id": "A5EB03E23B97F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kuningan"
+    },
+    {
+        "id": "A5EB03E23CFEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kupang"
+    },
+    {
+        "id": "A5EB03E23B4FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kutai Barat"
+    },
+    {
+        "id": "A5EB03E23C62F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kutai Kartanegara"
+    },
+    {
+        "id": "A5EB03E23C68F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Kutai Timur"
+    },
+    {
+        "id": "A5EB03E23C9AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Labuhanbatu"
+    },
+    {
+        "id": "A5EB03E23B7CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Labuhanbatu Selatan"
+    },
+    {
+        "id": "A5EB03E23B7DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Labuhanbatu Utara"
+    },
+    {
+        "id": "A5EB03E23CBBF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lahat"
+    },
+    {
+        "id": "A5EB03E23CECF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lamandau"
+    },
+    {
+        "id": "A5EB03E23B57F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lamongan"
+    },
+    {
+        "id": "A5EB03E23C37F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lampung Barat"
+    },
+    {
+        "id": "A5EB03E23C34F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lampung Selatan"
+    },
+    {
+        "id": "A5EB03E23C35F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lampung Tengah"
+    },
+    {
+        "id": "A5EB03E23B6FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lampung Timur"
+    },
+    {
+        "id": "A5EB03E23C36F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lampung Utara"
+    },
+    {
+        "id": "A5EB03E23B5FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Landak"
+    },
+    {
+        "id": "A5EB03E23C97F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Langkat"
+    },
+    {
+        "id": "A5EB03E23B91F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lanny Jaya"
+    },
+    {
+        "id": "A5EB03E23B9EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lebak"
+    },
+    {
+        "id": "A5EB03E23B4DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lebong"
+    },
+    {
+        "id": "A5EB03E23D09F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lembata"
+    },
+    {
+        "id": "A5EB03E23B55F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Limapuluh Kota"
+    },
+    {
+        "id": "A5EB03E23D31F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lingga"
+    },
+    {
+        "id": "A5EB03E23BCCF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lombok Barat"
+    },
+    {
+        "id": "A5EB03E23C91F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lombok Tengah"
+    },
+    {
+        "id": "A5EB03E23BCDF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lombok Timur"
+    },
+    {
+        "id": "A5EB03E23B82F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lombok Utara"
+    },
+    {
+        "id": "A5EB03E23CD7F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Lumajang"
+    },
+    {
+        "id": "A5EB03E23C7FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Luwu"
+    },
+    {
+        "id": "A5EB03E23BC2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Luwu Timur"
+    },
+    {
+        "id": "A5EB03E23C84F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Luwu Utara"
+    },
+    {
+        "id": "A5EB03E23CDAF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Madiun"
+    },
+    {
+        "id": "A5EB03E23BACF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Magelang"
+    },
+    {
+        "id": "A5EB03E23CDBF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Magetan"
+    },
+    {
+        "id": "ff8080813ff0535b013ff0b296d924a7",
+        "nama": "Pemerintah Kab. Mahakam Ulu"
+    },
+    {
+        "id": "A5EB03E23B98F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Majalengka"
+    },
+    {
+        "id": "A5EB03E23D41F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Majene"
+    },
+    {
+        "id": "ff8080813ff0535b013ff0cfe00e2e82",
+        "nama": "Pemerintah Kab. Malaka"
+    },
+    {
+        "id": "A5EB03E23B3AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Malang"
+    },
+    {
+        "id": "A5EB03E23C66F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Malinau"
+    },
+    {
+        "id": "A5EB03E23B8DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Maluku Barat Daya"
+    },
+    {
+        "id": "A5EB03E23D0DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Maluku Tengah"
+    },
+    {
+        "id": "A5EB03E23BD1F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Maluku Tenggara"
+    },
+    {
+        "id": "A5EB03E23D3FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mamasa"
+    },
+    {
+        "id": "A5EB03E23B8FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mamberamo Raya"
+    },
+    {
+        "id": "A5EB03E23B90F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mamberamo Tengah"
+    },
+    {
+        "id": "A5EB03E23D3EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mamuju"
+    },
+    {
+        "id": "ff808081426f4d6801428ec9afb07ff2",
+        "nama": "Pemerintah Kab. Mamuju Tengah"
+    },
+    {
+        "id": "A5EB03E23CA0F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mandailing Natal"
+    },
+    {
+        "id": "A5EB03E23D06F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Manggarai"
+    },
+    {
+        "id": "A5EB03E23D0BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Manggarai Barat"
+    },
+    {
+        "id": "A5EB03E23D57F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Manggarai Timur"
+    },
+    {
+        "id": "A5EB03E23D28F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Manokwari"
+    },
+    {
+        "id": "ff80808144245f0701442f61c90d5f00",
+        "nama": "Pemerintah Kab. Manokwari Selatan"
+    },
+    {
+        "id": "A5EB03E23D19F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mappi"
+    },
+    {
+        "id": "A5EB03E23BBBF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Maros"
+    },
+    {
+        "id": "A5EB03E23D4CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Maybrat"
+    },
+    {
+        "id": "A5EB03E23D2EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Melawi"
+    },
+    {
+        "id": "A5EB03E23B5DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mempawah"
+    },
+    {
+        "id": "A5EB03E23CB5F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Merangin"
+    },
+    {
+        "id": "A5EB03E23BD9F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Merauke"
+    },
+    {
+        "id": "A5EB03E23D61F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mesuji"
+    },
+    {
+        "id": "A5EB03E23D18F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mimika"
+    },
+    {
+        "id": "A5EB03E23C6FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Minahasa"
+    },
+    {
+        "id": "A5EB03E23BAFF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Minahasa Selatan"
+    },
+    {
+        "id": "A5EB03E23B85F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Minahasa Tenggara"
+    },
+    {
+        "id": "A5EB03E23D44F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Minahasa Utara"
+    },
+    {
+        "id": "A5EB03E23CCEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mojokerto"
+    },
+    {
+        "id": "A5EB03E23C79F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Morowali"
+    },
+    {
+        "id": "ff8080814449b7e401444ea883ac0829",
+        "nama": "Pemerintah Kab. Morowali Utara"
+    },
+    {
+        "id": "A5EB03E23CBAF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Muara Enim"
+    },
+    {
+        "id": "A5EB03E23CB7F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Muaro Jambi"
+    },
+    {
+        "id": "A5EB03E23C31F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Mukomuko"
+    },
+    {
+        "id": "A5EB03E23BC5F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Muna"
+    },
+    {
+        "id": "8ae482894bca19a4014bd87660831274",
+        "nama": "Pemerintah Kab. Muna Barat"
+    },
+    {
+        "id": "A5EB03E23CEDF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Murung Raya"
+    },
+    {
+        "id": "A5EB03E23CB9F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Musi Banyuasin"
+    },
+    {
+        "id": "A5EB03E23B30F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Musi Rawas"
+    },
+    {
+        "id": "8ae482894305762301430a5c07e7709c",
+        "nama": "Pemerintah Kab. Musi Rawas Utara"
+    },
+    {
+        "id": "A5EB03E23BDAF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Nabire"
+    },
+    {
+        "id": "A5EB03E23C19F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Nagan Raya"
+    },
+    {
+        "id": "A5EB03E23C1CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Nagekeo"
+    },
+    {
+        "id": "A5EB03E23D1FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Natuna"
+    },
+    {
+        "id": "A5EB03E23B93F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Nduga"
+    },
+    {
+        "id": "A5EB03E23D05F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ngada"
+    },
+    {
+        "id": "A5EB03E23B3DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Nganjuk"
+    },
+    {
+        "id": "A5EB03E23B3FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ngawi"
+    },
+    {
+        "id": "A5EB03E23C9EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Nias"
+    },
+    {
+        "id": "A5EB03E23C23F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Nias Barat"
+    },
+    {
+        "id": "A5EB03E23B14F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Nias Selatan"
+    },
+    {
+        "id": "A5EB03E23C24F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Nias Utara"
+    },
+    {
+        "id": "A5EB03E23C67F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Nunukan"
+    },
+    {
+        "id": "A5EB03E23B4CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ogan Ilir"
+    },
+    {
+        "id": "A5EB03E23CBCF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ogan Komering Ilir"
+    },
+    {
+        "id": "A5EB03E23B2FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ogan Komering Ulu"
+    },
+    {
+        "id": "A5EB03E23D2CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ogan Komering Ulu Sel."
+    },
+    {
+        "id": "A5EB03E23D5CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ogan Komering Ulu Timur"
+    },
+    {
+        "id": "A5EB03E23CDCF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pacitan"
+    },
+    {
+        "id": "A5EB03E23BE1F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Padang Lawas"
+    },
+    {
+        "id": "A5EB03E23BE2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Padang Lawas Utara"
+    },
+    {
+        "id": "A5EB03E23CAEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Padang Pariaman"
+    },
+    {
+        "id": "A5EB03E23B15F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pakpak Bharat"
+    },
+    {
+        "id": "A5EB03E23CD2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pamekasan"
+    },
+    {
+        "id": "A5EB03E23C4CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pandeglang"
+    },
+    {
+        "id": "ff8080813ff0535b013ff0cd0e792e17",
+        "nama": "Pemerintah Kab. Pangandaran"
+    },
+    {
+        "id": "A5EB03E23C82F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pangkajene dan Kepulauan"
+    },
+    {
+        "id": "A5EB03E23D17F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Paniai"
+    },
+    {
+        "id": "A5EB03E23C7AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Parigi Moutong"
+    },
+    {
+        "id": "A5EB03E23B21F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pasaman"
+    },
+    {
+        "id": "A5EB03E23D5FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pasaman Barat"
+    },
+    {
+        "id": "A5EB03E23B48F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pasangkayu"
+    },
+    {
+        "id": "A5EB03E23C63F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Paser"
+    },
+    {
+        "id": "A5EB03E23CD6F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pasuruan"
+    },
+    {
+        "id": "A5EB03E23BA7F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pati"
+    },
+    {
+        "id": "ff8080813ff0535b013ff0cb2abb2df5",
+        "nama": "Pemerintah Kab. Pegunungan Arfak"
+    },
+    {
+        "id": "A5EB03E23D4EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pegunungan Bintang"
+    },
+    {
+        "id": "A5EB03E23BA5F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pekalongan"
+    },
+    {
+        "id": "A5EB03E23B1BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pelalawan"
+    },
+    {
+        "id": "A5EB03E23BA8F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pemalang"
+    },
+    {
+        "id": "A5EB03E23C69F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Penajam Paser Utara"
+    },
+    {
+        "id": "ff80808140cec7d80140e1972df151c8",
+        "nama": "Pemerintah Kab. Penukal Abab Lematang Ilir"
+    },
+    {
+        "id": "A5EB03E23AF7F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pesawaran"
+    },
+    {
+        "id": "ff80808141007d280141071724a60046",
+        "nama": "Pemerintah Kab. Pesisir Barat"
+    },
+    {
+        "id": "A5EB03E23B23F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pesisir Selatan"
+    },
+    {
+        "id": "A5EB03E23C13F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pidie"
+    },
+    {
+        "id": "A5EB03E23BE0F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pidie Jaya"
+    },
+    {
+        "id": "A5EB03E23C7BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pinrang"
+    },
+    {
+        "id": "A5EB03E23C74F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pohuwato"
+    },
+    {
+        "id": "A5EB03E23D40F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Polewali Mandar"
+    },
+    {
+        "id": "A5EB03E23B40F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Ponorogo"
+    },
+    {
+        "id": "A5EB03E23C76F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Poso"
+    },
+    {
+        "id": "A5EB03E23D60F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pringsewu"
+    },
+    {
+        "id": "A5EB03E23B3BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Probolinggo"
+    },
+    {
+        "id": "A5EB03E23CEBF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pulang Pisau"
+    },
+    {
+        "id": "A5EB03E23C25F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Pulau Morotai"
+    },
+    {
+        "id": "ff8080813ff0535b013ff0ce7cd12e5c",
+        "nama": "Pemerintah Kab. Pulau Taliabu"
+    },
+    {
+        "id": "A5EB03E23C60F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Puncak"
+    },
+    {
+        "id": "A5EB03E23BDBF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Puncak Jaya"
+    },
+    {
+        "id": "A5EB03E23BABF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Purbalingga"
+    },
+    {
+        "id": "A5EB03E23C42F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Purwakarta"
+    },
+    {
+        "id": "A5EB03E23BADF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Purworejo"
+    },
+    {
+        "id": "A5EB03E23D27F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Raja Ampat"
+    },
+    {
+        "id": "A5EB03E23C2EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Rejang Lebong"
+    },
+    {
+        "id": "A5EB03E23BA9F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Rembang"
+    },
+    {
+        "id": "A5EB03E23B1EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Rokan Hilir"
+    },
+    {
+        "id": "A5EB03E23CA9F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Rokan Hulu"
+    },
+    {
+        "id": "A5EB03E23D0AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Rote Ndao"
+    },
+    {
+        "id": "A5EB03E23C20F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sabu Raijua"
+    },
+    {
+        "id": "A5EB03E23CE2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sambas"
+    },
+    {
+        "id": "A5EB03E23D2BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Samosir"
+    },
+    {
+        "id": "A5EB03E23CD1F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sampang"
+    },
+    {
+        "id": "A5EB03E23CE3F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sanggau"
+    },
+    {
+        "id": "A5EB03E23D1CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sarmi"
+    },
+    {
+        "id": "A5EB03E23CB6F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sarolangun"
+    },
+    {
+        "id": "A5EB03E23D5DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sekadau"
+    },
+    {
+        "id": "A5EB03E23C30F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Seluma"
+    },
+    {
+        "id": "A5EB03E23C51F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Semarang"
+    },
+    {
+        "id": "A5EB03E23D3BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Seram Bagian Barat"
+    },
+    {
+        "id": "A5EB03E23D42F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Seram Bagian Timur"
+    },
+    {
+        "id": "A5EB03E23B46F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Serang"
+    },
+    {
+        "id": "A5EB03E23B4AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Serdang Bedagai"
+    },
+    {
+        "id": "A5EB03E23CEEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Seruyan"
+    },
+    {
+        "id": "A5EB03E23CAAF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Siak"
+    },
+    {
+        "id": "A5EB03E23BC0F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sidenreng Rappang"
+    },
+    {
+        "id": "A5EB03E23CCFF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sidoarjo"
+    },
+    {
+        "id": "A5EB03E23B89F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sigi"
+    },
+    {
+        "id": "A5EB03E23B24F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sijunjung"
+    },
+    {
+        "id": "A5EB03E23D02F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sikka"
+    },
+    {
+        "id": "A5EB03E23C99F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Simalungun"
+    },
+    {
+        "id": "A5EB03E23B10F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Simeulue"
+    },
+    {
+        "id": "A5EB03E23BBCF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sinjai"
+    },
+    {
+        "id": "A5EB03E23CE4F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sintang"
+    },
+    {
+        "id": "A5EB03E23CD4F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Situbondo"
+    },
+    {
+        "id": "A5EB03E23BA1F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sleman"
+    },
+    {
+        "id": "A5EB03E23B22F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Solok"
+    },
+    {
+        "id": "A5EB03E23D5EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Solok Selatan"
+    },
+    {
+        "id": "A5EB03E23C83F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Soppeng"
+    },
+    {
+        "id": "A5EB03E23D26F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sorong"
+    },
+    {
+        "id": "A5EB03E23B51F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sorong Selatan"
+    },
+    {
+        "id": "A5EB03E23CC3F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sragen"
+    },
+    {
+        "id": "A5EB03E23B77F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Subang"
+    },
+    {
+        "id": "A5EB03E23C40F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sukabumi"
+    },
+    {
+        "id": "A5EB03E23B65F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sukamara"
+    },
+    {
+        "id": "A5EB03E23CC4F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sukoharjo"
+    },
+    {
+        "id": "A5EB03E23D08F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sumba Barat"
+    },
+    {
+        "id": "A5EB03E23D49F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sumba Barat Daya"
+    },
+    {
+        "id": "A5EB03E23C1DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sumba Tengah"
+    },
+    {
+        "id": "A5EB03E23D07F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sumba Timur"
+    },
+    {
+        "id": "A5EB03E23CF9F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sumbawa"
+    },
+    {
+        "id": "A5EB03E23D39F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sumbawa Barat"
+    },
+    {
+        "id": "A5EB03E23B78F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sumedang"
+    },
+    {
+        "id": "A5EB03E23B37F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Sumenep"
+    },
+    {
+        "id": "A5EB03E23D3CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Supiori"
+    },
+    {
+        "id": "A5EB03E23B6BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tabalong"
+    },
+    {
+        "id": "A5EB03E23CF8F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tabanan"
+    },
+    {
+        "id": "A5EB03E23C81F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Takalar"
+    },
+    {
+        "id": "A5EB03E23C26F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tambrauw"
+    },
+    {
+        "id": "A5EB03E23BF2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tana Tidung"
+    },
+    {
+        "id": "A5EB03E23C7EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tana Toraja"
+    },
+    {
+        "id": "A5EB03E23CF7F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tanah Bumbu"
+    },
+    {
+        "id": "A5EB03E23CAFF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tanah Datar"
+    },
+    {
+        "id": "A5EB03E23CF0F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tanah Laut"
+    },
+    {
+        "id": "A5EB03E23C4DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tangerang"
+    },
+    {
+        "id": "A5EB03E23B6EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tanggamus"
+    },
+    {
+        "id": "A5EB03E23CB4F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tanjung Jabung Barat"
+    },
+    {
+        "id": "A5EB03E23B2DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tanjung Jabung Timur"
+    },
+    {
+        "id": "A5EB03E23C9CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tapanuli Selatan"
+    },
+    {
+        "id": "A5EB03E23C98F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tapanuli Tengah"
+    },
+    {
+        "id": "A5EB03E23C9BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tapanuli Utara"
+    },
+    {
+        "id": "A5EB03E23B69F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tapin"
+    },
+    {
+        "id": "A5EB03E23B79F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tasikmalaya"
+    },
+    {
+        "id": "A5EB03E23B2CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tebo"
+    },
+    {
+        "id": "A5EB03E23BA6F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tegal"
+    },
+    {
+        "id": "A5EB03E23D58F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Teluk Bintuni"
+    },
+    {
+        "id": "A5EB03E23D29F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Teluk Wondama"
+    },
+    {
+        "id": "A5EB03E23C5BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Temanggung"
+    },
+    {
+        "id": "A5EB03E23D01F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Timor Tengah Selatan"
+    },
+    {
+        "id": "A5EB03E23D00F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Timor Tengah Utara"
+    },
+    {
+        "id": "A5EB03E23C9FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Toba"
+    },
+    {
+        "id": "A5EB03E23D35F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tojo Una Una"
+    },
+    {
+        "id": "A5EB03E23D1BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tolikara"
+    },
+    {
+        "id": "A5EB03E23BB5F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tolitoli"
+    },
+    {
+        "id": "A5EB03E23B8AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Toraja Utara"
+    },
+    {
+        "id": "A5EB03E23CD9F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Trenggalek"
+    },
+    {
+        "id": "A5EB03E23CDDF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tuban"
+    },
+    {
+        "id": "A5EB03E23C38F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tulang Bawang"
+    },
+    {
+        "id": "A5EB03E23C21F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tulang Bawang Barat"
+    },
+    {
+        "id": "A5EB03E23CD8F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Tulungagung"
+    },
+    {
+        "id": "A5EB03E23C7DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Wajo"
+    },
+    {
+        "id": "A5EB03E23D38F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Wakatobi"
+    },
+    {
+        "id": "A5EB03E23D1DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Waropen"
+    },
+    {
+        "id": "A5EB03E23C39F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Way Kanan"
+    },
+    {
+        "id": "A5EB03E23CC6F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Wonogiri"
+    },
+    {
+        "id": "A5EB03E23CF6F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Wonosobo"
+    },
+    {
+        "id": "A5EB03E23D1AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Yahukimo"
+    },
+    {
+        "id": "A5EB03E23B92F6A0E040640A040252AD",
+        "nama": "Pemerintah Kab. Yalimo"
+    },
+    {
+        "id": "A5EB03E23D0FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Ambon"
+    },
+    {
+        "id": "A5EB03E23C6BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Balikpapan"
+    },
+    {
+        "id": "A5EB03E23C27F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Banda Aceh"
+    },
+    {
+        "id": "A5EB03E23B70F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Bandar Lampung"
+    },
+    {
+        "id": "A5EB03E23C47F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Bandung"
+    },
+    {
+        "id": "A5EB03E23C4BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Banjar"
+    },
+    {
+        "id": "A5EB03E23B6DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Banjarbaru"
+    },
+    {
+        "id": "A5EB03E23CF5F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Banjarmasin"
+    },
+    {
+        "id": "A5EB03E23D52F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Batam"
+    },
+    {
+        "id": "A5EB03E23B5BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Batu"
+    },
+    {
+        "id": "A5EB03E23BC7F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Baubau"
+    },
+    {
+        "id": "A5EB03E23C49F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Bekasi"
+    },
+    {
+        "id": "A5EB03E23C32F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Bengkulu"
+    },
+    {
+        "id": "A5EB03E23C94F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Bima"
+    },
+    {
+        "id": "A5EB03E23CA3F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Binjai"
+    },
+    {
+        "id": "A5EB03E23BB0F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Bitung"
+    },
+    {
+        "id": "A5EB03E23CE0F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Blitar"
+    },
+    {
+        "id": "A5EB03E23B99F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Bogor"
+    },
+    {
+        "id": "A5EB03E23C6CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Bontang"
+    },
+    {
+        "id": "A5EB03E23B25F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Bukittinggi"
+    },
+    {
+        "id": "A5EB03E23C4EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Cilegon"
+    },
+    {
+        "id": "A5EB03E23C4AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Cimahi"
+    },
+    {
+        "id": "A5EB03E23B9AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Cirebon"
+    },
+    {
+        "id": "A5EB03E23BCBF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Denpasar"
+    },
+    {
+        "id": "A5EB03E23B9BF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Depok"
+    },
+    {
+        "id": "A5EB03E23CACF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Dumai"
+    },
+    {
+        "id": "A5EB03E23C75F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Gorontalo"
+    },
+    {
+        "id": "A5EB03E23C22F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Gunung Sitoli"
+    },
+    {
+        "id": "A5EB03E23CB8F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Jambi"
+    },
+    {
+        "id": "A5EB03E23D50F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Jayapura"
+    },
+    {
+        "id": "A5EB03E23B5AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Kediri"
+    },
+    {
+        "id": "A5EB03E23C8AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Kendari"
+    },
+    {
+        "id": "A5EB03E23B88F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota KotaMobagu"
+    },
+    {
+        "id": "A5EB03E23D0CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Kupang"
+    },
+    {
+        "id": "A5EB03E23C28F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Langsa"
+    },
+    {
+        "id": "A5EB03E23C29F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Lhokseumawe"
+    },
+    {
+        "id": "A5EB03E23CBEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Lubuk Linggau"
+    },
+    {
+        "id": "A5EB03E23CE1F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Madiun"
+    },
+    {
+        "id": "A5EB03E23CCBF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Magelang"
+    },
+    {
+        "id": "A5EB03E23C85F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Makassar"
+    },
+    {
+        "id": "A5EB03E23B58F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Malang"
+    },
+    {
+        "id": "A5EB03E23C71F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Manado"
+    },
+    {
+        "id": "A5EB03E23BCEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Mataram"
+    },
+    {
+        "id": "A5EB03E23CA2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Medan"
+    },
+    {
+        "id": "A5EB03E23C3AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Metro"
+    },
+    {
+        "id": "A5EB03E23CDEF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Mojokerto"
+    },
+    {
+        "id": "A5EB03E23B27F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Padang"
+    },
+    {
+        "id": "A5EB03E23CB1F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Padang Panjang"
+    },
+    {
+        "id": "A5EB03E23B18F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Padangsidimpuan"
+    },
+    {
+        "id": "A5EB03E23B32F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Pagar Alam"
+    },
+    {
+        "id": "A5EB03E23B4EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Palangka Raya"
+    },
+    {
+        "id": "A5EB03E23CBDF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Palembang"
+    },
+    {
+        "id": "A5EB03E23C86F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Palopo"
+    },
+    {
+        "id": "A5EB03E23BB8F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Palu"
+    },
+    {
+        "id": "A5EB03E23CFCF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Pangkal Pinang"
+    },
+    {
+        "id": "A5EB03E23BC3F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Parepare"
+    },
+    {
+        "id": "A5EB03E23B28F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Pariaman"
+    },
+    {
+        "id": "A5EB03E23CDFF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Pasuruan"
+    },
+    {
+        "id": "A5EB03E23CB3F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Payakumbuh"
+    },
+    {
+        "id": "A5EB03E23CC9F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Pekalongan"
+    },
+    {
+        "id": "A5EB03E23CABF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Pekanbaru"
+    },
+    {
+        "id": "A5EB03E23B17F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Pematangsiantar"
+    },
+    {
+        "id": "A5EB03E23B60F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Pontianak"
+    },
+    {
+        "id": "A5EB03E23B33F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Prabumulih"
+    },
+    {
+        "id": "A5EB03E23B59F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Probolinggo"
+    },
+    {
+        "id": "A5EB03E23C1AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Sabang"
+    },
+    {
+        "id": "A5EB03E23CC8F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Salatiga"
+    },
+    {
+        "id": "A5EB03E23C6AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Samarinda"
+    },
+    {
+        "id": "A5EB03E23B26F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Sawahlunto"
+    },
+    {
+        "id": "A5EB03E23CC7F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Semarang"
+    },
+    {
+        "id": "A5EB03E23B81F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Serang"
+    },
+    {
+        "id": "A5EB03E23CA5F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Sibolga"
+    },
+    {
+        "id": "A5EB03E23CE7F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Singkawang"
+    },
+    {
+        "id": "A5EB03E23CB2F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Solok"
+    },
+    {
+        "id": "A5EB03E23D5AF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Sorong"
+    },
+    {
+        "id": "A5EB03E23BDFF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Subulussalam"
+    },
+    {
+        "id": "A5EB03E23C48F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Sukabumi"
+    },
+    {
+        "id": "A5EB03E23B7EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Sungai Penuh"
+    },
+    {
+        "id": "A5EB03E23B44F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Surabaya"
+    },
+    {
+        "id": "A5EB03E23B43F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Surakarta"
+    },
+    {
+        "id": "A5EB03E23B9FF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tangerang"
+    },
+    {
+        "id": "A5EB03E23D65F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tangerang Selatan"
+    },
+    {
+        "id": "A5EB03E23CA4F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tanjungbalai"
+    },
+    {
+        "id": "A5EB03E23CFBF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tanjungpinang"
+    },
+    {
+        "id": "A5EB03E23C6DF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tarakan"
+    },
+    {
+        "id": "A5EB03E23B9CF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tasikmalaya"
+    },
+    {
+        "id": "A5EB03E23B16F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tebing Tinggi"
+    },
+    {
+        "id": "A5EB03E23CCAF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tegal"
+    },
+    {
+        "id": "A5EB03E23BD6F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Ternate"
+    },
+    {
+        "id": "A5EB03E23D13F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tidore Kepulauan"
+    },
+    {
+        "id": "A5EB03E23C72F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tomohon"
+    },
+    {
+        "id": "A5EB03E23B8EF6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Tual"
+    },
+    {
+        "id": "A5EB03E23C50F6A0E040640A040252AD",
+        "nama": "Pemerintah Kota Yogyakarta"
+    },
+    {
+        "id": "A5EB03E23C8BF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Bali"
+    },
+    {
+        "id": "A5EB03E23B9DF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Banten"
+    },
+    {
+        "id": "A5EB03E23C2BF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Bengkulu"
+    },
+    {
+        "id": "A5EB03E23C3BF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Daerah Khusus Ibukota Jakarta"
+    },
+    {
+        "id": "A5EB03E23BB1F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Gorontalo"
+    },
+    {
+        "id": "A5EB03E23B4BF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Jambi"
+    },
+    {
+        "id": "A5EB03E23B74F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Jawa Barat"
+    },
+    {
+        "id": "A5EB03E23BA3F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Jawa Tengah"
+    },
+    {
+        "id": "A5EB03E23CCCF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Jawa Timur"
+    },
+    {
+        "id": "A5EB03E23B5CF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Kalimantan Barat"
+    },
+    {
+        "id": "A5EB03E23B68F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Kalimantan Selatan"
+    },
+    {
+        "id": "A5EB03E23B61F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Kalimantan Tengah"
+    },
+    {
+        "id": "A5EB03E23C61F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Kalimantan Timur"
+    },
+    {
+        "id": "ff80808140151b37014033f7fa9a4560",
+        "nama": "Pemerintah Provinsi Kalimantan Utara"
+    },
+    {
+        "id": "A5EB03E23CBFF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Kep. Bangka Belitung"
+    },
+    {
+        "id": "A5EB03E23D1EF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Kepulauan Riau"
+    },
+    {
+        "id": "A5EB03E23C33F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Lampung"
+    },
+    {
+        "id": "A5EB03E23BD0F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Maluku"
+    },
+    {
+        "id": "A5EB03E23B54F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Maluku Utara"
+    },
+    {
+        "id": "A5EB03E23BCFF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi NTT"
+    },
+    {
+        "id": "A5EB03E23C90F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Nusa Tenggara Barat"
+    },
+    {
+        "id": "A5EB03E23BD7F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Papua"
+    },
+    {
+        "id": "A5EB03E23D22F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Papua Barat"
+    },
+    {
+        "id": "F41980A2BAC289D7E050640AF1080584",
+        "nama": "Pemerintah Provinsi Papua Barat Daya"
+    },
+    {
+        "id": "EB512F19A39A2F79E050640AF1082DE3",
+        "nama": "Pemerintah Provinsi Papua Pegunungan"
+    },
+    {
+        "id": "EB512F19A39B2F79E050640AF1082DE3",
+        "nama": "Pemerintah Provinsi Papua Selatan"
+    },
+    {
+        "id": "EB512F19A3992F79E050640AF1082DE3",
+        "nama": "Pemerintah Provinsi Papua Tengah"
+    },
+    {
+        "id": "A5EB03E23CA6F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Riau"
+    },
+    {
+        "id": "A5EB03E23D23F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Sulawesi Barat"
+    },
+    {
+        "id": "A5EB03E23BB9F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Sulawesi Selatan"
+    },
+    {
+        "id": "A5EB03E23BB4F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Sulawesi Tengah"
+    },
+    {
+        "id": "A5EB03E23BC4F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Sulawesi Tenggara"
+    },
+    {
+        "id": "A5EB03E23C6EF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Sulawesi Utara"
+    },
+    {
+        "id": "A5EB03E23B20F6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Sumatera Barat"
+    },
+    {
+        "id": "A5EB03E23B2EF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Sumatera Selatan"
+    },
+    {
+        "id": "A5EB03E23C2AF6A0E040640A040252AD",
+        "nama": "Pemerintah Provinsi Sumatera Utara"
+    },
+    {
+        "id": "A5EB03E23C0AF6A0E040640A040252AD",
+        "nama": "Perpustakaan Nasional RI"
+    },
+    {
+        "id": "A5EB03E23D64F6A0E040640A040252AD",
+        "nama": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
+    },
+    {
+        "id": "014C560C79B72247E060640AF1082B75",
+        "nama": "Sekretariat Jenderal Dewan Nasional Kawasan Ekonomi Khusus"
+    },
+    {
+        "id": "A5EB03E23C01F6A0E040640A040252AD",
+        "nama": "Sekretariat Jenderal DPR RI"
+    },
+    {
+        "id": "A5EB03E23B1CF6A0E040640A040252AD",
+        "nama": "Sekretariat Jenderal Komisi Yudisial"
+    },
+    {
+        "id": "A5EB03E23BFFF6A0E040640A040252AD",
+        "nama": "Sekretariat Jenderal MPR"
+    },
+    {
+        "id": "A5EB03E23C0EF6A0E040640A040252AD",
+        "nama": "Sekretariat Kabinet "
+    },
+    {
+        "id": "A5EB03E23B1DF6A0E040640A040252AD",
+        "nama": "Setjen Dewan Perwakilan Daerah"
+    },
+    {
+        "id": "A5EB03E23D54F6A0E040640A040252AD",
+        "nama": "Setjen Komisi Pemilihan Umum"
+    },
+    {
+        "id": "8ae482893d68b543013d7c73e421677a",
+        "nama": "Setjen Komisi Pengawas Persaingan Usaha"
+    },
+    {
+        "id": "A5EB03E23D56F6A0E040640A040252AD",
+        "nama": "Setjen KOMNAS HAM"
+    },
+    {
+        "id": "A5EB03E23C02F6A0E040640A040252AD",
+        "nama": "Setjen WANTANNAS"
+    }
+]
